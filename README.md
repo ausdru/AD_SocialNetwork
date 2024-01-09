@@ -60,4 +60,4 @@ Upon completion of the challenge, I'd referenced:
 - The 'resources' thread on Slack
 
 ## Usage/Demonstration:
-- You can watch my walkthrough video, demonstrating the use of the application and features [here](linkhere).
+- You can watch my walkthrough video, demonstrating the use of the application and features here: [Part 1](https://drive.google.com/file/d/1NvUAAj-aMhXVm6EGFCcAlYKIp8cU3e0-/view?usp=drive_link) & [Part 2](https://drive.google.com/file/d/1IbmPSxHMF6jo1kDH1odCduGZa8N5l3HU/view?usp=drive_link).
